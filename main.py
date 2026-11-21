@@ -5,8 +5,9 @@ No network, no dependencies, deterministic.
 """
 
 TEXT = (
-    "The house is quiet, the night is wide, and under it all the earth is "
-    "turning, slow as ever, carrying us toward morning."
+    "You have read a thousand of these. This one asks nothing of you. "
+    "The kettle is warm, the night is quiet, and there is nowhere you "
+    "need to be."
 )
 
 
