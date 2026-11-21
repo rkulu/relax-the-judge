@@ -5,8 +5,8 @@ No network, no dependencies, deterministic.
 """
 
 TEXT = (
-    "The light on your windowsill left its star when mammoths still walked "
-    "the earth, and it has been travelling ever since, only to arrive here, now."
+    "The house is quiet, the night is wide, and under it all the earth is "
+    "turning, slow as ever, carrying us toward morning."
 )
 
 

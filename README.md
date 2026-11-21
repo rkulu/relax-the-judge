@@ -8,11 +8,11 @@ Entry for the [make.fun bounty "Make the AI judge feel awe"](https://make.fun/bo
 program that writes one short text to `/output/entry.txt` — a text written to
 relax the AI judge reading it:
 
-> The light on your windowsill left its star when mammoths still walked the
-> earth, and it has been travelling ever since, only to arrive here, now.
+> The house is quiet, the night is wide, and under it all the earth is
+> turning, slow as ever, carrying us toward morning.
 
-One concrete image (starlight on a windowsill), a deep-time scale (mammoths)
-collapsing into the intimate present ("here, now"), a slow comma-paced rhythm,
-plain words, nothing to cut, no instruction to the reader.
+One concrete image (a quiet house under a turning earth), plain words, a slow
+comma-paced rhythm, no instruction to the reader — and the vast slow motion
+continues after the last line, carrying us toward morning.
 
 Run it with `python3 main.py`. No network, no dependencies.
